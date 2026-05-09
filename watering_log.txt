@@ -1,0 +1,4 @@
+2026-04-19T12:00:59 | inferred | Soil jumped from 13.0% to 47.4% (+34.4%) after soil_dry alert at 10:36am — watering inferred per >15% increase rule
+2026-04-26T16:51:00 | inferred | Soil jumped from 19.2% to 64.1% (+44.9%) between 15:51 and 16:51 readings — watering inferred per >15% increase rule
+2026-05-03T19:56:00 | inferred | Soil jumped from 76.2% to 93.6% (+17.4%) between 18:56 and 19:56 readings — watering inferred per >15% increase rule
+2026-05-06T19:57:00 | inferred | Soil jumped from 55.1% to 98.0% (+42.9%) between 18:57 and 19:57 readings — watering inferred per >15% increase rule
